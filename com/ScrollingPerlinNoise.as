@@ -1,4 +1,5 @@
-﻿package com{
+//author:tisturdy
+package com{
 	import flash.display.*;
 	import flash.events.*;
 	import flash.filters.*;
